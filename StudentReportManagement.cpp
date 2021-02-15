@@ -253,8 +253,8 @@ int main()
 	master ms;
 	while(1)
 	{
-		cout<<"\n\t==============> Developed By : Faraz Ahmad Jutt <=================\n";
-		cout<<"\n\t==============> Master Database <================\n";
+		cout<<"\n\t==============> Developed By : Tanbin Islam Rohan <=================\n";
+		cout<<"\n\t==============> TI Database <================\n";
 		cout<<"\n\n\t ********** Choose Operation You Want To Perform **********\n\n";
 		cout<<"\n\n\t\t 1--> Create Record";
 		cout<<"\n\n\t\t 2--> Display Record";
